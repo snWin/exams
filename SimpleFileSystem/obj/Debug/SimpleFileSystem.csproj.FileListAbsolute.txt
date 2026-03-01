@@ -1,0 +1,7 @@
+D:\exam\exams\SimpleFileSystem\bin\Debug\SimpleFileSystem.exe.config
+D:\exam\exams\SimpleFileSystem\bin\Debug\SimpleFileSystem.exe
+D:\exam\exams\SimpleFileSystem\bin\Debug\SimpleFileSystem.pdb
+D:\exam\exams\SimpleFileSystem\obj\Debug\SimpleFileSystem.csproj.AssemblyReference.cache
+D:\exam\exams\SimpleFileSystem\obj\Debug\SimpleFileSystem.csproj.CoreCompileInputs.cache
+D:\exam\exams\SimpleFileSystem\obj\Debug\SimpleFileSystem.exe
+D:\exam\exams\SimpleFileSystem\obj\Debug\SimpleFileSystem.pdb

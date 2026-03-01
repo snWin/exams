@@ -1,0 +1,7 @@
+D:\exam\exams\XmlChecker\bin\Debug\XmlChecker.exe.config
+D:\exam\exams\XmlChecker\bin\Debug\XmlChecker.exe
+D:\exam\exams\XmlChecker\bin\Debug\XmlChecker.pdb
+D:\exam\exams\XmlChecker\obj\Debug\XmlChecker.csproj.AssemblyReference.cache
+D:\exam\exams\XmlChecker\obj\Debug\XmlChecker.csproj.CoreCompileInputs.cache
+D:\exam\exams\XmlChecker\obj\Debug\XmlChecker.exe
+D:\exam\exams\XmlChecker\obj\Debug\XmlChecker.pdb
