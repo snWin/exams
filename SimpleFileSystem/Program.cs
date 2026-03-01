@@ -108,8 +108,8 @@ namespace SimpleFileSystem
 		//}
 		static void Main()
 		{
-			//string root = Path.Combine(Environment.CurrentDirectory, "MyFileSystem"); // will create in bin\Debug
-			string root = Path.Combine(@"D:\exam\exams", "MyFileCollection");
+			string root = Path.Combine(Environment.CurrentDirectory, "MyFileSystem"); // will create in bin\Debug
+			//string root = Path.Combine(@"D:\exam\exams", "MyFileCollection");
 
 			SimpleFileSystem fs = new SimpleFileSystem(root);
 
