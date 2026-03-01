@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple JS Chart Library</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body margin="20px 0px 0px 20px">
+
+<h2>Simple Chart Generator</h2>
+
+<!--10, 25, 40, 15, 30  -->
+<input style="width: 300px;vertical-align: top;" id="dataInput" placeholder="Enter numbers separated by commas">
+
+<select id="chartType" style="width: 100px;vertical-align: top;">
+  <option value="bar">Bar Chart</option>
+  <option value="line">Line Chart</option>
+</select>
+<!-- Add Chart.js library from CDN -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.5.0/chart.js' integrity='sha512-y5GdcvG8/LoqZllcaDnZKY4hKSDowG4vWAytStZ1AZ8sxgWke7KtkMx3G9KQU0Ih3kIDfY/3EO1sSyKGRxqwJQ==' crossorigin='anonymous'></script>
+<button onclick="createChart()" style="width: 150px;vertical-align: top;">Generate Chart</button>
+
+<canvas id="chartCanvas" width="500" height="300"></canvas>
+
+<script src="chart.js"></script>
+
+</body>
+</html>
